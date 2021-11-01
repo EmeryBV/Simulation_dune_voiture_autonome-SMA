@@ -1,0 +1,5 @@
+sceneSetups:
+- path: Assets/pathfinding_grid/examples/pathfinding_max_tiles.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
